@@ -13,6 +13,10 @@
 /.next/
 /out/
 
+# Add this to your .gitignore
+.env.local
+.env
+
 # production
 /build
 
